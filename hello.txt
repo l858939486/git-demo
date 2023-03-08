@@ -11,5 +11,4 @@ hello senye!hello git!
 hello senye!hello git!
 hello senye!hello git!
 hello senye!hello git! master test
-hello senye!hello git!
-
+hello senye!hello git! hot-fix
